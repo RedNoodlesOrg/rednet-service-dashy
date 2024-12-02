@@ -1,4 +1,4 @@
-name: "dashy"
+name: "dashy-stack"
 services:
   dashy:
     image: lissy93/dashy
